@@ -6,7 +6,7 @@ soft robots, spacecraft, and system design
 
 ---
 
-## what i'm working on
+## projects
 
 | project | description |
 | --- | --- |
