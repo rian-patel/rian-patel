@@ -1,12 +1,22 @@
-# rian patel
+<div align="center">
 
-mechanical engineering @ cmu
+# Rian Patel
 
-soft robots, spacecraft, and system design
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=mechanical+engineering+%40+cmu;designing+%2B+building+hardware+that+has+to+work" alt="tagline" />
+
+<a href="https://www.linkedin.com/in/rian-patel-engineering"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rianp@andrew.cmu.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/rian-patel"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=rian-patel&style=for-the-badge&color=0A66C2&label=Profile+Views" alt="Profile views" />
+
+</div>
+
+Soft Robotics, Spacecraft, System Design.
 
 ---
 
-## projects
+## 🛠️ Projects
 
 | project | description |
 | --- | --- |
@@ -17,23 +27,55 @@ soft robots, spacecraft, and system design
 
 ---
 
-## background
+## 🎓 Background
 
 - incoming mechanical engineering @ carnegie mellon university
-- meam program (mechanical engineering & advanced manufacturing) — 4.0 gpa
+- meam program (mechatronics, engineering & advanced manufacturing) — 4.0 gpa
 - engineering intern @ keri engineering
 - osha-10, nims (10 machining certs + 12 college credits)
 
 ---
 
-solidworks · inventor pro · fusion 360 · onshape · python · c++ · cnc mill/lathe · cam · 3d printing · mechatronics
+## 🧰 Skills & Tools
+
+**programming**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,git,github,vscode" alt="c, c++, python, arduino, git, github, vs code" />
+
+**cad**
+
+![SolidWorks](https://img.shields.io/badge/SolidWorks-D6001C?style=for-the-badge&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F57E25?style=for-the-badge&logo=autodesk&logoColor=white)
+![Onshape](https://img.shields.io/badge/Onshape-1B68DE?style=for-the-badge&logoColor=white)
+
+**fabrication**
+
+![CNC Mill / Lathe](https://img.shields.io/badge/CNC_Mill_%2F_Lathe-37474F?style=for-the-badge&logoColor=white)
+![CAM](https://img.shields.io/badge/CAM-37474F?style=for-the-badge)
+![3D Printing](https://img.shields.io/badge/3D_Printing-37474F?style=for-the-badge)
+![Mechanical Drafting](https://img.shields.io/badge/Mechanical_Drafting-37474F?style=for-the-badge)
+![Mechatronics](https://img.shields.io/badge/Mechatronics-37474F?style=for-the-badge)
 
 ---
 
-## giving back
+## 🤝 Giving Back
 
-- **Youth2STEM** — co-founded a stem nonprofit running hands-on programs for younger students across multiple domestic and international sites.
+- **Youth2STEM** — co-founded a stem nonprofit running hands-on STEM programs domestically and internationally.
 - **Empower 3D** — custom adaptive 3d prints that solve everyday problems, from arthritis aids like bottle openers and writing grips to universal tools like wrench kits and phone mounts.
 
 ---
-rianp@andrew.cmu.edu
+
+### 📊 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rian-patel&hide_border=true&theme=tokyonight" alt="github streak" />
+</p>
+
+---
+
+<div align="center">
+
+[linkedin](https://www.linkedin.com/in/rian-patel-engineering) · rianp@andrew.cmu.edu
+
+</div>
