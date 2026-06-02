@@ -1,8 +1,8 @@
 # rian patel
 
-mechanical engineering @ cmu · designing and building hardware that has to work
+mechanical engineering @ cmu
 
-robots, spacecraft, and tools for real people. plus the physics of why those systems behave the way they do.
+soft robots, spacecraft, and system design
 
 ---
 
@@ -20,9 +20,8 @@ robots, spacecraft, and tools for real people. plus the physics of why those sys
 ## background
 
 - incoming mechanical engineering @ carnegie mellon university
-- meam program (mechatronics, engineering & advanced manufacturing) — 4.0 gpa
-- **led** two nasa hunch teams: soft mobility arm + cubesat solar collector
-- engineering intern @ keri engineering — philaport project, photometric calcs & cad lighting to ies standards
+- meam program (mechanical engineering & advanced manufacturing) — 4.0 gpa
+- engineering intern @ keri engineering
 - osha-10, nims (10 machining certs + 12 college credits)
 
 ---
