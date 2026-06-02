@@ -38,24 +38,26 @@ Soft Robotics, Spacecraft, System Design.
 
 ## 🧰 Skills & Tools
 
-**programming**
+**Programming**
 
 <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,git,github,vscode" alt="c, c++, python, arduino, git, github, vs code" />
 
-**cad**
+**Cad**
 
-![SolidWorks](https://img.shields.io/badge/SolidWorks-D6001C?style=for-the-badge&logoColor=white)
-![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51837?style=for-the-badge&logo=autodesk&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-F57E25?style=for-the-badge&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-D6001C?style=for-the-badge&logoColor=white)
 ![Onshape](https://img.shields.io/badge/Onshape-1B68DE?style=for-the-badge&logoColor=white)
 
-**fabrication**
+**Fabrication**
 
 ![CNC Mill / Lathe](https://img.shields.io/badge/CNC_Mill_%2F_Lathe-37474F?style=for-the-badge&logoColor=white)
+![G-Code](https://img.shields.io/badge/G--Code-37474F?style=for-the-badge)
+![Mechatronics](https://img.shields.io/badge/Mechatronics-37474F?style=for-the-badge)
 ![CAM](https://img.shields.io/badge/CAM-37474F?style=for-the-badge)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-37474F?style=for-the-badge)
 ![Mechanical Drafting](https://img.shields.io/badge/Mechanical_Drafting-37474F?style=for-the-badge)
-![Mechatronics](https://img.shields.io/badge/Mechatronics-37474F?style=for-the-badge)
 
 ---
 
