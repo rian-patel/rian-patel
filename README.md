@@ -30,7 +30,7 @@ Soft Robotics, Spacecraft, System Design.
 ## 🎓 Background
 
 - incoming mechanical engineering @ carnegie mellon university
-- meam program (mechatronics, engineering & advanced manufacturing) — 4.0 gpa
+- meam program (mechanical engineering & advanced manufacturing) — 4.0 gpa
 - engineering intern @ keri engineering
 - osha-10, nims (10 machining certs + 12 college credits)
 
