@@ -41,7 +41,7 @@ Soft Robotics, Spacecraft, System Design.
 
 **Programming**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,git,github,vscode" alt="c, c++, python, arduino, git, github, vs code" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,html,css,js,git,vscode" alt="c, c++, python, arduino, html, css, javascript, git, vs code" />
 
 **Cad**
 
