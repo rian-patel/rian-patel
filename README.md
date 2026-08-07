@@ -21,7 +21,7 @@ Soft Robotics, Spacecraft, System Design.
 | project | description |
 | --- | --- |
 | **Celeste** | design & fabrication on a gpt-4o vision-guided manipulator, research with prof. touretzky (cmu cognitive robotics) |
-| **Ghostline** | Physics-aware F1 qualifying analysis. Reconstructs each driver's fastest lap from raw FastF1 telemetry, derives curvature and g-forces, and precomputes one compact file the browser replays as synchronized ghost cars with linked charts. |
+| **Ghostline** | physics-aware F1 qualifying analysis. Reconstructs each driver's fastest lap from raw FastF1 telemetry, derives curvature and g-forces, and precomputes one compact file the browser replays as synchronized ghost cars with linked charts. |
 | **ISS Rail Mobility Arm** | cable-driven soft robot arm for microgravity, tpu-printed, arduino servo control, nasa hunch |
 | **CubeSat Collector** | hybrid power system for 1u cubesats: inflatable mylar reflector onto a pv panel, thermoacoustic engine recovering waste heat, nasa hunch |
 | **EOR Runaway Threshold** | research paper, closed-form stability limit for electric orbit raising under radiation damage. mentored by former nasa jpl engineers |
